@@ -3,7 +3,7 @@
 
 ##Directory Structure-
 
-	        akurhade_proj_6-
+	        
 		|--Code-
 		|   |-DogsvCats.py #Main file
 		|--Report.pdf
